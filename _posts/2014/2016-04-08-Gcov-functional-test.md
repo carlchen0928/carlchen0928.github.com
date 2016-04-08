@@ -1,3 +1,13 @@
+---
+layout: post
+title: Gcov functional test
+categories:
+- Programming
+tags:
+- gcov
+- c++
+---
+
 ### create an empty folder in project home
 ```sh
 mkdir build && cd build
